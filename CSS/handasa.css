@@ -450,7 +450,7 @@ body
 }
 .contact .info .social-links a:hover
 {
-    color: blue;
+    color: var(--main-color);
 }
 /* End contact sction */
 /* start footer */
